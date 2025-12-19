@@ -1,4 +1,4 @@
-# RPS School Attendance System
+# RPS School Attendance System by Ronit yadav
 
 A comprehensive web-based attendance management system for RPS School's Class 11 Non-Medical A, built with HTML, CSS, and JavaScript.
 
@@ -79,11 +79,12 @@ A comprehensive web-based attendance management system for RPS School's Class 11
 ```
 
 ## Contributing
-Feel free to fork and improve the system. Pull requests are welcome!
+Feel free to fork and improve the system. Pull requests are welcome! contact the dev: 9817567037
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source and made by student{ronit yadav]
 
 ## Support
 For issues or questions, please open an issue on GitHub.</content>
+
 <parameter name="filePath">c:\Users\raoya\vs code\New folder20\README.md
